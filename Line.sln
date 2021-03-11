@@ -1,9 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 15
-VisualStudioVersion = 15.0.28307.1062
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30611.23
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Line", "Line\Line.csproj", "{F1C54CCD-F8EA-4F10-AB01-E81803A18321}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LineOO", "LineOO\LineOO.csproj", "{61933273-BDCB-43C6-A6DA-4F032E24418C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{F1C54CCD-F8EA-4F10-AB01-E81803A18321}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F1C54CCD-F8EA-4F10-AB01-E81803A18321}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F1C54CCD-F8EA-4F10-AB01-E81803A18321}.Release|Any CPU.Build.0 = Release|Any CPU
+		{61933273-BDCB-43C6-A6DA-4F032E24418C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{61933273-BDCB-43C6-A6DA-4F032E24418C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{61933273-BDCB-43C6-A6DA-4F032E24418C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{61933273-BDCB-43C6-A6DA-4F032E24418C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
